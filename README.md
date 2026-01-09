@@ -1,3 +1,6 @@
+**其他语言版本: [中文](README.md), [English](README_EN.md).**
+
+
 # 文档评审分析 Agent（Review Analysis Agent）
 
 ## 项目作用

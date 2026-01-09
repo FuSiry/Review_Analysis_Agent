@@ -1,3 +1,5 @@
+**其他语言版本: [中文](README.md), [English](README_EN.md).**
+
 # Review Analysis Agent
 
 ## What It Does
