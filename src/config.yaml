@@ -1,0 +1,17 @@
+models:
+  chat_model:
+    model: "xxx"
+    base_url: "https://ark-cn-beijing.bytedance.net/api/v3"
+    api_key: "xxx"
+    temperature: 0
+    max_tokens: 2000
+
+alicloud:
+  access_key: "xxx"
+  access_secret: "xxx"
+
+tools:
+  mcp_servers:
+    bytedance-mcp-robot_pefer:
+      type: "sse"
+      url: 'https://xx.mcp.bytedance.net/sse/xx'
